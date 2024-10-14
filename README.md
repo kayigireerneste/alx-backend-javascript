@@ -1,1 +1,1 @@
-this is repository fot ALX-backend js project 
+this is repository fot ALX-backend javaScript project 
